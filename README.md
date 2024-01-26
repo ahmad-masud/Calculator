@@ -1,41 +1,29 @@
+
 # Calculator
-A simple calculator application made using java swing frames.
 
-This application implements java swing to make a simple calculator. There are many buttons for different mathematical operations such as adding, subtracting, multiplication, division, and percentages.
+## Description
+This project is a simple yet powerful Java-based calculator. It offers a user-friendly interface for performing various mathematical operations. This calculator is perfect for basic arithmetic, and it's designed with ease of use in mind.
 
-# Stack
-- Java
-- Netbeans
+## Installation
+To install the Calculator, follow these steps:
+1. Ensure you have Java installed on your machine.
+2. Download the project files to your local machine.
+3. Navigate to the `dist` folder and locate the `Calculator.jar` file.
+4. Run the file to start the calculator.
 
-![Calculator](https://user-images.githubusercontent.com/96448477/210031837-9dadaf1f-7afa-4a43-b2fe-a7c5fd93f937.gif)
+## Usage
+To use the Calculator, simply:
+1. Open the application.
+2. Enter the numbers and select the desired operation.
+3. Press 'Calculate' to see the result.
 
-# Build Output Description
-When you build an Java application project that has a main class, the IDE
-automatically copies all of the JAR
-files on the projects classpath to your projects dist/lib folder. The IDE
-also adds each of the JAR files to the Class-Path element in the application
-JAR files manifest file (MANIFEST.MF).
+## Contributing
+Contributions to the Calculator project are welcome. Please follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
-To run the project from the command line, go to the dist folder and
-type the following:
-
-java -jar "SortingAlgorithmVisualizer.jar" 
-
-To distribute this project, zip up the dist folder (including the lib folder)
-and distribute the ZIP file.
-
-Notes:
-
-* If two JAR files on the project classpath have the same name, only the first
-JAR file is copied to the lib folder.
-* Only JAR files are copied to the lib folder.
-If the classpath contains other types of files or folders, these files (folders)
-are not copied.
-* If a library on the projects classpath also has a Class-Path element
-specified in the manifest,the content of the Class-Path element has to be on
-the projects runtime path.
-* To set a main class in a standard Java project, right-click the project node
-in the Projects window and choose Properties. Then click Run and enter the
-class name in the Main Class field. Alternatively, you can manually type the
-class name in the manifest Main-Class element.
-
+## License
+This project is licensed under the [MIT License](LICENSE.txt) - see the LICENSE file for details.
