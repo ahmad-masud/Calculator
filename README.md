@@ -1,5 +1,6 @@
 
 # Calculator
+![calculator](https://github.com/ahmad-masud/Calculator/assets/96448477/c91914ef-60e1-45f3-8582-05d80488978b)
 
 ## Description
 This project is a simple yet powerful Java-based calculator. It offers a user-friendly interface for performing various mathematical operations. This calculator is perfect for basic arithmetic, and it's designed with ease of use in mind.
